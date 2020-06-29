@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="106" started-at="2020-05-28T20:58:03 IST" finished-at="2020-05-28T20:58:03 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="106" started-at="2020-05-28T20:58:03 IST" finished-at="2020-05-28T20:58:03 IST">
+      <class name="MavenTestJava.RestAPITest">
+        <test-method status="PASS" signature="PostJira()[pri:0, instance:MavenTestJava.RestAPITest@71423665]" name="PostJira" duration-ms="1" started-at="2020-05-28T20:58:03 IST" finished-at="2020-05-28T20:58:03 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PostJira -->
+        <test-method status="PASS" signature="deleteJira()[pri:0, instance:MavenTestJava.RestAPITest@71423665]" name="deleteJira" duration-ms="1" started-at="2020-05-28T20:58:03 IST" finished-at="2020-05-28T20:58:03 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteJira -->
+      </class> <!-- MavenTestJava.RestAPITest -->
+      <class name="MavenTestJava.SeleniumTest">
+        <test-method status="PASS" signature="ElementsUI()[pri:0, instance:MavenTestJava.SeleniumTest@2ac273d3]" name="ElementsUI" duration-ms="14" started-at="2020-05-28T20:58:03 IST" finished-at="2020-05-28T20:58:03 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ElementsUI -->
+        <test-method status="PASS" signature="browserAutomation()[pri:0, instance:MavenTestJava.SeleniumTest@2ac273d3]" name="browserAutomation" duration-ms="0" started-at="2020-05-28T20:58:03 IST" finished-at="2020-05-28T20:58:03 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserAutomation -->
+      </class> <!-- MavenTestJava.SeleniumTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
